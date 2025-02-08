@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mG27jD+iwF9yXchhm7W25nirtnhSAANYIueAON9S92Y=",
+  "Source": "BigBobChat.API",
+  "BasePath": "_content/BigBobChat.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
