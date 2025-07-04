@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("BigBobChat.API")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("BigBobChat.Common")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11164a67eb1b2417faac905813df9f9ba0acab19")]
-[assembly: System.Reflection.AssemblyProductAttribute("BigBobChat.API")]
-[assembly: System.Reflection.AssemblyTitleAttribute("BigBobChat.API")]
+[assembly: System.Reflection.AssemblyProductAttribute("BigBobChat.Common")]
+[assembly: System.Reflection.AssemblyTitleAttribute("BigBobChat.Common")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
