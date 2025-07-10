@@ -3,7 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigBobChat.API", "BigBobChat.API\BigBobChat.API.csproj", "{0EFF84CE-802D-464F-8308-5D878C20577C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BigBobChat.API", "BigBobChat.API\BigBobChat.API.csproj", "{0EFF84CE-802D-464F-8308-5D878C20577C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1376B622-F607-4230-A571-5589B38027DF} = {1376B622-F607-4230-A571-5589B38027DF}
+		{82E840B3-97B5-4768-A001-7B3C82F5CF87} = {82E840B3-97B5-4768-A001-7B3C82F5CF87}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigBobChat.Core", "BigBobChat.Core\BigBobChat.Core.csproj", "{1096E284-D925-4EF5-8D1F-1028E02BC5E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigBobChat.Infrastructure", "BigBobChat.Infrastructure\BigBobChat.Infrastructure.csproj", "{82E840B3-97B5-4768-A001-7B3C82F5CF87}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1096E284-D925-4EF5-8D1F-1028E02BC5E9} = {1096E284-D925-4EF5-8D1F-1028E02BC5E9}
+		{53FE4887-FA31-4273-8C32-2B5E422DEF7A} = {53FE4887-FA31-4273-8C32-2B5E422DEF7A}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigBobChat.Application", "BigBobChat.Application\BigBobChat.Application.csproj", "{1376B622-F607-4230-A571-5589B38027DF}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1096E284-D925-4EF5-8D1F-1028E02BC5E9} = {1096E284-D925-4EF5-8D1F-1028E02BC5E9}
+		{53FE4887-FA31-4273-8C32-2B5E422DEF7A} = {53FE4887-FA31-4273-8C32-2B5E422DEF7A}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigBobChat.Common", "BigBobChat.Common\BigBobChat.Common.csproj", "{53FE4887-FA31-4273-8C32-2B5E422DEF7A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +35,22 @@ Global
 		{0EFF84CE-802D-464F-8308-5D878C20577C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0EFF84CE-802D-464F-8308-5D878C20577C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EFF84CE-802D-464F-8308-5D878C20577C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1096E284-D925-4EF5-8D1F-1028E02BC5E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1096E284-D925-4EF5-8D1F-1028E02BC5E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1096E284-D925-4EF5-8D1F-1028E02BC5E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1096E284-D925-4EF5-8D1F-1028E02BC5E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82E840B3-97B5-4768-A001-7B3C82F5CF87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82E840B3-97B5-4768-A001-7B3C82F5CF87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82E840B3-97B5-4768-A001-7B3C82F5CF87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82E840B3-97B5-4768-A001-7B3C82F5CF87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1376B622-F607-4230-A571-5589B38027DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1376B622-F607-4230-A571-5589B38027DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1376B622-F607-4230-A571-5589B38027DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1376B622-F607-4230-A571-5589B38027DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53FE4887-FA31-4273-8C32-2B5E422DEF7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53FE4887-FA31-4273-8C32-2B5E422DEF7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53FE4887-FA31-4273-8C32-2B5E422DEF7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53FE4887-FA31-4273-8C32-2B5E422DEF7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

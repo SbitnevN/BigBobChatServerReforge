@@ -1,0 +1,7 @@
+[*.cs]
+
+dotnet_diagnostic.CS8618.severity = none      # Non-nullable field is uninitialized
+dotnet_diagnostic.CS8601.severity = none      # Possible null reference assignment
+dotnet_diagnostic.CS8602.severity = none      # Dereference of a possibly null reference
+dotnet_diagnostic.CS8603.severity = none      # Possible null reference return
+dotnet_diagnostic.CS8604.severity = none      # Possible null reference argument

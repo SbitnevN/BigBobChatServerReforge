@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BigBobChat.Core/1.0.0": {
+        "runtime": {
+          "BigBobChat.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BigBobChat.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BigBobChat.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11164a67eb1b2417faac905813df9f9ba0acab19")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+573f4251526fee2bed110ddf52134dbca7d3ab93")]
 [assembly: System.Reflection.AssemblyProductAttribute("BigBobChat.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BigBobChat.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

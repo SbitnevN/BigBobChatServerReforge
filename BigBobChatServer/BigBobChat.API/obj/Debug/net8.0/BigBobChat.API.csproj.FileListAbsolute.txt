@@ -31,3 +31,16 @@ D:\GitHub\BigBobChatServerReforge\BigBobChatServer\BigBobChat.API\obj\Debug\net8
 D:\GitHub\BigBobChatServerReforge\BigBobChatServer\BigBobChat.API\obj\Debug\net8.0\BigBobChat.API.pdb
 D:\GitHub\BigBobChatServerReforge\BigBobChatServer\BigBobChat.API\obj\Debug\net8.0\BigBobChat.API.genruntimeconfig.cache
 D:\GitHub\BigBobChatServerReforge\BigBobChatServer\BigBobChat.API\obj\Debug\net8.0\ref\BigBobChat.API.dll
+D:\GitHub\BigBobChatServerReforge\BigBobChatServer\BigBobChat.API\bin\Debug\net8.0\DnsClient.dll
+D:\GitHub\BigBobChatServerReforge\BigBobChatServer\BigBobChat.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GitHub\BigBobChatServerReforge\BigBobChatServer\BigBobChat.API\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\GitHub\BigBobChatServerReforge\BigBobChatServer\BigBobChat.API\bin\Debug\net8.0\MongoDB.Driver.dll
+D:\GitHub\BigBobChatServerReforge\BigBobChatServer\BigBobChat.API\bin\Debug\net8.0\SharpCompress.dll
+D:\GitHub\BigBobChatServerReforge\BigBobChatServer\BigBobChat.API\bin\Debug\net8.0\Snappier.dll
+D:\GitHub\BigBobChatServerReforge\BigBobChatServer\BigBobChat.API\bin\Debug\net8.0\ZstdSharp.dll
+D:\GitHub\BigBobChatServerReforge\BigBobChatServer\BigBobChat.API\bin\Debug\net8.0\BigBobChat.Common.dll
+D:\GitHub\BigBobChatServerReforge\BigBobChatServer\BigBobChat.API\bin\Debug\net8.0\BigBobChat.Infrastructure.dll
+D:\GitHub\BigBobChatServerReforge\BigBobChatServer\BigBobChat.API\bin\Debug\net8.0\BigBobChat.Infrastructure.pdb
+D:\GitHub\BigBobChatServerReforge\BigBobChatServer\BigBobChat.API\bin\Debug\net8.0\BigBobChat.Common.pdb
+D:\GitHub\BigBobChatServerReforge\BigBobChatServer\BigBobChat.API\bin\Debug\net8.0\BigBobChat.Core.dll
+D:\GitHub\BigBobChatServerReforge\BigBobChatServer\BigBobChat.API\bin\Debug\net8.0\BigBobChat.Core.pdb

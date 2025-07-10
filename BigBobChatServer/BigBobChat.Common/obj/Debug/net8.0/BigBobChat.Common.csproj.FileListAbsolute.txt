@@ -1,0 +1,13 @@
+D:\GitHub\BigBobChatServerReforge\BigBobChatServer\BigBobChat.Common\bin\Debug\net8.0\BigBobChat.Common.deps.json
+D:\GitHub\BigBobChatServerReforge\BigBobChatServer\BigBobChat.Common\bin\Debug\net8.0\BigBobChat.Common.dll
+D:\GitHub\BigBobChatServerReforge\BigBobChatServer\BigBobChat.Common\bin\Debug\net8.0\BigBobChat.Common.pdb
+D:\GitHub\BigBobChatServerReforge\BigBobChatServer\BigBobChat.Common\obj\Debug\net8.0\BigBobChat.Common.csproj.AssemblyReference.cache
+D:\GitHub\BigBobChatServerReforge\BigBobChatServer\BigBobChat.Common\obj\Debug\net8.0\BigBobChat.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\BigBobChatServerReforge\BigBobChatServer\BigBobChat.Common\obj\Debug\net8.0\BigBobChat.Common.AssemblyInfoInputs.cache
+D:\GitHub\BigBobChatServerReforge\BigBobChatServer\BigBobChat.Common\obj\Debug\net8.0\BigBobChat.Common.AssemblyInfo.cs
+D:\GitHub\BigBobChatServerReforge\BigBobChatServer\BigBobChat.Common\obj\Debug\net8.0\BigBobChat.Common.csproj.CoreCompileInputs.cache
+D:\GitHub\BigBobChatServerReforge\BigBobChatServer\BigBobChat.Common\obj\Debug\net8.0\BigBobChat.Common.sourcelink.json
+D:\GitHub\BigBobChatServerReforge\BigBobChatServer\BigBobChat.Common\obj\Debug\net8.0\BigBobChat.Common.dll
+D:\GitHub\BigBobChatServerReforge\BigBobChatServer\BigBobChat.Common\obj\Debug\net8.0\refint\BigBobChat.Common.dll
+D:\GitHub\BigBobChatServerReforge\BigBobChatServer\BigBobChat.Common\obj\Debug\net8.0\BigBobChat.Common.pdb
+D:\GitHub\BigBobChatServerReforge\BigBobChatServer\BigBobChat.Common\obj\Debug\net8.0\ref\BigBobChat.Common.dll

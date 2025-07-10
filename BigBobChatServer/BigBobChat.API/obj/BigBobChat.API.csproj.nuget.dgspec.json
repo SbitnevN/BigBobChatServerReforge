@@ -27,7 +27,14 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\GitHub\\BigBobChatServerReforge\\BigBobChatServer\\BigBobChat.Core\\BigBobChat.Core.csproj": {
+                "projectPath": "D:\\GitHub\\BigBobChatServerReforge\\BigBobChatServer\\BigBobChat.Core\\BigBobChat.Core.csproj"
+              },
+              "D:\\GitHub\\BigBobChatServerReforge\\BigBobChatServer\\BigBobChat.Infrastructure\\BigBobChat.Infrastructure.csproj": {
+                "projectPath": "D:\\GitHub\\BigBobChatServerReforge\\BigBobChatServer\\BigBobChat.Infrastructure\\BigBobChat.Infrastructure.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -65,6 +72,213 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\GitHub\\BigBobChatServerReforge\\BigBobChatServer\\BigBobChat.Common\\BigBobChat.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GitHub\\BigBobChatServerReforge\\BigBobChatServer\\BigBobChat.Common\\BigBobChat.Common.csproj",
+        "projectName": "BigBobChat.Common",
+        "projectPath": "D:\\GitHub\\BigBobChatServerReforge\\BigBobChatServer\\BigBobChat.Common\\BigBobChat.Common.csproj",
+        "packagesPath": "C:\\Users\\sbitn\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\BigBobChatServerReforge\\BigBobChatServer\\BigBobChat.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sbitn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\GitHub\\BigBobChatServerReforge\\BigBobChatServer\\BigBobChat.Core\\BigBobChat.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GitHub\\BigBobChatServerReforge\\BigBobChatServer\\BigBobChat.Core\\BigBobChat.Core.csproj",
+        "projectName": "BigBobChat.Core",
+        "projectPath": "D:\\GitHub\\BigBobChatServerReforge\\BigBobChatServer\\BigBobChat.Core\\BigBobChat.Core.csproj",
+        "packagesPath": "C:\\Users\\sbitn\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\BigBobChatServerReforge\\BigBobChatServer\\BigBobChat.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sbitn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\GitHub\\BigBobChatServerReforge\\BigBobChatServer\\BigBobChat.Infrastructure\\BigBobChat.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GitHub\\BigBobChatServerReforge\\BigBobChatServer\\BigBobChat.Infrastructure\\BigBobChat.Infrastructure.csproj",
+        "projectName": "BigBobChat.Infrastructure",
+        "projectPath": "D:\\GitHub\\BigBobChatServerReforge\\BigBobChatServer\\BigBobChat.Infrastructure\\BigBobChat.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\sbitn\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\BigBobChatServerReforge\\BigBobChatServer\\BigBobChat.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sbitn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\GitHub\\BigBobChatServerReforge\\BigBobChatServer\\BigBobChat.Common\\BigBobChat.Common.csproj": {
+                "projectPath": "D:\\GitHub\\BigBobChatServerReforge\\BigBobChatServer\\BigBobChat.Common\\BigBobChat.Common.csproj"
+              },
+              "D:\\GitHub\\BigBobChatServerReforge\\BigBobChatServer\\BigBobChat.Core\\BigBobChat.Core.csproj": {
+                "projectPath": "D:\\GitHub\\BigBobChatServerReforge\\BigBobChatServer\\BigBobChat.Core\\BigBobChat.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Mapster": {
+              "target": "Package",
+              "version": "[7.4.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

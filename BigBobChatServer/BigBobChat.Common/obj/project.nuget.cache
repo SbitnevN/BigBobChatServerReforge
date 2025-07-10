@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QQvpOSe4RrJNk7438VNN03nP0QuXtSk/vaOLh1AZ2X6XTEJfWJa70vfOni+xuD7SpOmI2pLh9mGKjGxWy52Z6w==",
+  "dgSpecHash": "/69XHLRpi+FKoG2RfwF1jwqWexd8eODvY0PSjKzhvLCsgX2Ea4gOBiz2NHl8VUNvlsRrv3xzcnqGp1bj3tFalQ==",
   "success": true,
   "projectFilePath": "D:\\GitHub\\BigBobChatServerReforge\\BigBobChatServer\\BigBobChat.Common\\BigBobChat.Common.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\sbitn\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.6\\microsoft.extensions.dependencyinjection.abstractions.9.0.6.nupkg.sha512"
+    "C:\\Users\\sbitn\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.7\\microsoft.extensions.dependencyinjection.abstractions.9.0.7.nupkg.sha512"
   ],
   "logs": []
 }
