@@ -1,0 +1,117 @@
+# =========================
+# Build results
+# =========================
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+artifacts/
+
+# =========================
+# Visual Studio
+# =========================
+.vs/
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache
+*.VC.db
+*.VC.VC.opendb
+*.opendb
+
+# =========================
+# Test results
+# =========================
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# =========================
+# NuGet
+# =========================
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Не игнорируем packages.config
+!packages.config
+
+# =========================
+# .NET
+# =========================
+project.lock.json
+project.fragment.lock.json
+artifacts/
+BenchmarkDotNet.Artifacts/
+
+# =========================
+# Rider / JetBrains
+# =========================
+.idea/
+*.sln.iml
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# Если хочешь коммитить общие настройки VS Code —
+# удали .vscode/ выше и используй, например:
+# .vscode/*
+# !.vscode/settings.json
+# !.vscode/extensions.json
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+~$*
+
+# =========================
+# OS junk
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Publish output
+# =========================
+publish/
+PublishProfiles/
+
+# =========================
+# Local configuration / secrets
+# =========================
+.env
+.env.*
+!.env.example
+
+appsettings.Local.json
+appsettings.*.local.json
+
+# =========================
+# Generated files
+# =========================
+Generated/
+generated/

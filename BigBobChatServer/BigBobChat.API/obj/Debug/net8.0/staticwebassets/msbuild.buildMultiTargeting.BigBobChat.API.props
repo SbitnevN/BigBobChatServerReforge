@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\BigBobChat.API.props" />
-</Project>

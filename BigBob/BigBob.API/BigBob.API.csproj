@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <EmitCompilerGeneratedFiles>true</EmitCompilerGeneratedFiles>
+    <CompilerGeneratedFilesOutputPath>$(BaseIntermediateOutputPath)Generated</CompilerGeneratedFilesOutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.9" />
+    <PackageReference Include="Microsoft.OpenApi" Version="2.12.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BigBob.CodeBuilder\BigBob.CodeBuilder.csproj" />
+    <ProjectReference Include="..\BigBob.Core\BigBob.Core.csproj" />
+    <ProjectReference Include="..\BigBob.DI\BigBob.DI.csproj" />
+    <ProjectReference Include="..\BigBob.Generators\BigBob.Generators.csproj" OutputItemType="Analyzer" ReferenceOutputAssembly="false" />
+  </ItemGroup>
+
+  <Target Name="ClearGeneratedSources" BeforeTargets="CoreCompile">
+    <RemoveDir Directories="$(CompilerGeneratedFilesOutputPath)" />
+  </Target>
+
+</Project>
