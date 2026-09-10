@@ -1,9 +1,7 @@
 <Solution>
   <Project Path="BigBob.API/BigBob.API.csproj" />
-  <Project Path="BigBob.CodeBuilder/BigBob.CodeBuilder.csproj" Id="6f5a2959-6f96-4847-8e8e-1e6ecb748520" />
   <Project Path="BigBob.Core/BigBob.Core.csproj" Id="060dc66b-3cba-40d2-ad8a-132c836523d3" />
   <Project Path="BigBob.DI/BigBob.DI.csproj" />
   <Project Path="BigBob.Generators/BigBob.Generators.csproj" />
   <Project Path="BigBob.Persistence/BigBob.Persistence.csproj" Id="08b94831-4e64-42ea-bca4-deeba2c352bf" />
-  <Project Path="BigBob.Test/BigBob.Test.csproj" Id="5b36bd82-cb50-459b-8bf2-001a9e4ab6fa" />
 </Solution>

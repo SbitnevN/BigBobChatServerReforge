@@ -14,7 +14,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BigBob.CodeBuilder\BigBob.CodeBuilder.csproj" />
     <ProjectReference Include="..\BigBob.Core\BigBob.Core.csproj" />
     <ProjectReference Include="..\BigBob.DI\BigBob.DI.csproj" />
     <ProjectReference Include="..\BigBob.Generators\BigBob.Generators.csproj" OutputItemType="Analyzer" ReferenceOutputAssembly="false" />
